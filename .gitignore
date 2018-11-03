@@ -40,6 +40,10 @@ coverage.info
 *.rpm
 *.deb
 usr
+vsproject/restclient-cpp/packages
+vsproject/restclient-cpp/build
+vsproject/restclient-cpp/.vs
+*.pdb
 
 # generated files
 include/restclient-cpp/version.h
