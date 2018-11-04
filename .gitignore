@@ -47,3 +47,4 @@ vsproject/restclient-cpp/.vs
 
 # generated files
 include/restclient-cpp/version.h
+include/curl

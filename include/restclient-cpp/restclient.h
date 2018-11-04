@@ -5,7 +5,9 @@
  * @version
  * @date 2010-10-11
  */
-
+#ifndef CURL_STATICLIB
+#define CURL_STATICLIB
+#endif
 #ifndef INCLUDE_RESTCLIENT_CPP_RESTCLIENT_H_
 #define INCLUDE_RESTCLIENT_CPP_RESTCLIENT_H_
 
